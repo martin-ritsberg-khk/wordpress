@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Seos Music\n"
+"POT-Creation-Date: 2017-02-01 00:47+0200\n"
+"PO-Revision-Date: 2017-02-01 00:54+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 - Page not found"
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"It seems we cannot find what you are looking for? Perhaps try searching."
+msgstr ""
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:16
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:16
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:16
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:16
+msgid " so far:"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:10
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:12
+msgid "Themes by SEOS"
+msgstr ""
+
+#: footer.php:12
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: footer.php:14
+msgid "http://seosthemes.com/"
+msgstr ""
+
+#: footer.php:14
+msgid "Theme by SEOS"
+msgstr ""
+
+#: functions.php:44
+msgid "left"
+msgstr ""
+
+#: functions.php:45
+msgid "This sidebar is left."
+msgstr ""
+
+#: functions.php:61
+msgid "Menu top"
+msgstr ""
+
+#: functions.php:74
+msgid "Search"
+msgstr ""
+
+#: functions.php:112
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:118
+msgid "Next page"
+msgstr ""
+
+#: functions.php:119
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:168
+msgctxt "header image description"
+msgid "Yourimg"
+msgstr ""
+
+#: functions.php:195
+msgid "Header Color"
+msgstr ""
+
+#: functions.php:248
+msgid "Read More"
+msgstr ""
+
+#: functions.php:278 functions.php:288
+msgid "How to use Seos Music"
+msgstr ""
+
+#: functions.php:279
+msgid ""
+"<a class=\"button button-primary\" href=\"http://seosthemes.com/seos-music/"
+"\">How to use Seos Music</a>"
+msgstr ""
+
+#: functions.php:308
+msgid "Seos Music Buy"
+msgstr ""
+
+#: functions.php:309
+msgid "Buy Premium"
+msgstr ""
+
+#: functions.php:341
+msgid "Seos Music Pro"
+msgstr ""
+
+#: functions.php:342
+msgid "\tLearn more about Seos Music. "
+msgstr ""
+
+#: functions.php:352
+msgid "Seos Music how to use"
+msgstr ""
+
+#: inc/premium-options.php:29
+msgid "Buy"
+msgstr ""
+
+#: inc/premium-options.php:29
+msgid " Now"
+msgstr ""
+
+#: search.php:31
+msgid "No results found. Try again. "
+msgstr ""
+
+#: single.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> previous - "
+msgstr ""
+
+#: single.php:29
+msgid "next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Seos Music"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://seosthemes.com/seos-music/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Seos Music is the 2015 HTML5 theme, dark multi-purpose theme with a "
+"responsive 2 column layout. We designed it using a mobile-first approach, "
+"meaning your content takes center-stage, regardless of whether your visitors "
+"arrive by smartphone, tablet, laptop, or desktop computer. Customizer: "
+"header color, background image, background color."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SEOS - Tsvetomir Tsvetanov"
+msgstr ""

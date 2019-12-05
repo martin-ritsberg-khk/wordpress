@@ -1,0 +1,47 @@
+SEOS MUSIC changelog
+
+= Version 1.23 February 15 2018 =
+* FIXED: Tags Issue
+
+= Version 1.22 April 22 2017 =
+* ADDED: Premium Options
+* ADDED: New Tags
+* ADDED: WooCommerce Support
+* FIXED: Sidebar Link Issues
+* FIXED: Image Hover Effect
+
+= Version 1.21 April 8 2017 =
+* FIXED: Sidebar Issue
+
+= Version 1.19 April 8 2017 =
+* FIXED: Premium Link Issue
+
+= Version 1.18 February 17 2017 =
+* FIXED: Page Issue
+
+= Version 1.16 February 12 2017 =
+* FIXED: Page Issue
+
+= Version 1.15 February 01 2017 =
+* ADDED: Demo Premium Options
+
+= Version 1.13 August 04 2016 =
+* ADDED: Default Sidebar
+
+= Version 1.12
+* ADDED: Customize Section - Pro version.
+* ADDED: Only one text-domain.
+* ADDED: Translation ready.
+
+= Version 1.09
+* ADDED: The function to output the contents of our Dashboard Widget.
+
+= Version 1.08
+* Removed background body img from css file and background image in the editing box on the "Visual" admin menu.
+* Update custum header and custum background. Set default img.
+* Removed body font size 14px and update article font size 14px.
+* Defining the css class - screen-reader text.
+
+
+= Version 1.01 =
+* Initial release
