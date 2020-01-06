@@ -6,21 +6,13 @@
  * @package freesia-empire
  */
 
-function freesia_empire_admin_css (){
-
-  wp_enqueue_style( 'freesia-empire-admin-css', get_template_directory_uri() . '/css/admin/admin.css' );
-
-}
-
-add_action( 'admin_enqueue_scripts', 'freesia_empire_admin_css' );
-
 function freesia_empire_admin_notice() {
   global $current_user;
   $current_user_id   = $current_user->ID;
   $theme  = wp_get_theme();
   if ( !get_user_meta( $current_user_id, esc_html( $theme->get( 'TextDomain' ) ) . '_notice_ignore' ) ) {
     ?>
-    <div class="notice freesia-empire-notice">
+    <div class="notice freesia-empire-notice" style="position:relative;">
 
       <h1>
         <?php
@@ -37,7 +29,7 @@ function freesia_empire_admin_notice() {
         ?>
       </p>
       <p>
-        <a href="https://themefreesia.com/theme-freesia-demo-import/"  target="_blank" class="button button-primary button-hero" style="text-decoration: none;">
+        <a href="https://themefreesia.com/theme-freesia-demo-import/"  target="_blank" class="button" style="text-decoration: none;">
           <?php
           /* translators: %s theme name */
           printf( esc_html__( 'Download Demo Import Plugin %s', 'freesia-empire' ), esc_html( $theme->Name ) )
